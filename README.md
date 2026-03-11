@@ -72,7 +72,9 @@ I'm interested in collaborating on:
 LinkedIn: [https://www.linkedin.com/in/sanya-c-b9b149227/]  
 Email: [sanyachaturvedi13@gmail.com]  
 
+![Sanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyachaturvedi&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyachaturvedi&layout=compact)
 ---
 
 > “The best way to understand intelligent systems is to build them.”

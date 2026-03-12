@@ -1,6 +1,6 @@
 # 👋 Hey there! Welcome to my GitHub
 
-I'm **Sanya Chaturvedi**, a Master's student in **Computer Science at the University of Florida** 🇺🇸.
+I'm **Sanya Chaturvedi**, a Master's student in **Computer Science at the University of Florida**
 
 I build systems at the intersection of **Data Engineering, Machine Learning, and Large Language Models**. My work focuses on creating scalable data pipelines and intelligent systems that leverage modern AI models.
 
